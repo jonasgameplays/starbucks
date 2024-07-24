@@ -4,3 +4,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.conteudo{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.caixa-texto{
+    width: 600px;
+}
+.caixa-imagem{
+    width: 600px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 250px;
+}
